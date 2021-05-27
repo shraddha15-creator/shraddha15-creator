@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey Folks, I'm Shraddha 
 
 <!--
 **shraddha15-creator/shraddha15-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="shraddha15-creator's GitHub Stats" src="https://github-readme-stats.shraddha15-creator.vercel.app/api?username=shraddha15-creator&show_icons=true&hide_border=true" />
+
+</details>
