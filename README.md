@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shraddha15-creator's GitHub Stats" src="https://github-readme-stats.shraddha15-creator.vercel.app/api?username=shraddha15-creator&show_icons=true&hide_border=true" />
+  ![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha15-creator&show_icons=true&theme=radical)
 
 </details>
