@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   ![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha15-creator&show_icons=true&theme=radical)
 
-</details>
+
