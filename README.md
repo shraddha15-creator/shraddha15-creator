@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Frontend Projects with React and Firebase!
+- 🌱 I’m currently learning JavaScript, MongoDB||ExpressJS||ReactJS||NodeJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
+- 🔭 I’m currently working on Frontend Projects with React and Firebase!
+- 🌱 I’m currently learning JavaScript, MongoDB||ExpressJS||ReactJS||NodeJS
+---
 
-  ![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha15-creator&show_icons=true&theme=radical)
+<!--   <summary>:zap: GitHub Stats</summary>
+
+  ![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha15-creator&show_icons=true&theme=radical) -->
 
 
