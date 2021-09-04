@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Shraddha Muley | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="notshraddhaaa | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
-[<img align="left" alt="shraddhaaa7 | Twitter" width="22px" src="https://worldvectorlogo.com/logo/twitter-5" />][twitter]
 
 <br />
 
 
 [instagram]: https://www.instagram.com/notshraddhaaa/
 [linkedin]: https://www.linkedin.com/in/shraddha-muley-81886b1a9/
-[twitter]: https://twitter.com/shraddhaaa7
+ Follow me On twitter [twitter]: https://twitter.com/shraddhaaa7
 
 <!--   <summary>:zap: GitHub Stats</summary>
 
