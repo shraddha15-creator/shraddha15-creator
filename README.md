@@ -1,6 +1,6 @@
 ### 👋 Hey Folks, I'm Shraddha 
-
-## I'm an aspiring web developer!!
+<!-- 
+## I'm an aspiring web developer!! -->
 
 <!--
 **shraddha15-creator/shraddha15-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Shraddha Muley | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="notshraddhaaa | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
 
-<br />
+
 
 
 [instagram]: https://www.instagram.com/notshraddhaaa/
