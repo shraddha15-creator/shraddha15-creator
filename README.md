@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 I’m currently learning and working on Frontend Projects with React!
-- 🌱 I’m currently learning JavaScript, MongoDB||ExpressJS||ReactJS||NodeJS
 ---
 
 ### Connect with me:
 
 [<img align="left" alt="Shraddha Muley | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="notshraddhaaa | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />][instagram]
 
 
 
