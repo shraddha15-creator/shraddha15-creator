@@ -1,40 +1,39 @@
-### 👋 Hey Folks, I'm Shraddha 
-<!-- 
-## I'm an aspiring web developer!! -->
+Hi 👋 My name is Shraddha Muley
+===============================
 
-<!--
-**shraddha15-creator/shraddha15-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+I started my Web Development journey in 2021. I have been working on HTML, CSS, JavaScript, TailwindCss, and ReactJs. I have also built some projects with the same tech stack.
 
-- 🔭 I’m currently working on Frontend Projects with React and Firebase!
-- 🌱 I’m currently learning JavaScript, MongoDB||ExpressJS||ReactJS||NodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Maharashtra, India.
+* 🖥️  See my portfolio at [My Portfolio](http://shraddha-muley.netlify.app/)
+* ✉️  You can contact me at [shraddhamuley2@gmail.com](mailto:shraddhamuley2@gmail.com)
+* 🚀  I'm currently working on [DoodleTv: Video Library](http://doodletv.netlify.app/)
+* 🧠  I'm learning ReactJs
 
----
+### Skills
 
-- 🔭 I’m currently learning and working on Frontend Projects with React!
----
-
-### Connect with me:
-
-[<img align="left" alt="Shraddha Muley | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/! Shraddhaaa#2979" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/shraddha15-creator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@shraddhaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shraddha-muley-81886b1a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shraddhaaa7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[instagram]: https://www.instagram.com/notshraddhaaa/
-[linkedin]: https://www.linkedin.com/in/shraddha-muley-81886b1a9/
-[twitter]: https://twitter.com/shraddhaaa7
+### Badges
 
-<!--   <summary>:zap: GitHub Stats</summary>
+<b>My GitHub Stats</b>
 
-  ![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha15-creator&show_icons=true&theme=radical) -->
+<a href="http://www.github.com/shraddha15-creator"><img src="https://github-readme-stats.vercel.app/api?username=shraddha15-creator&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shraddha15-creator's GitHub stats" /></a>
 
+<a href="http://www.github.com/shraddha15-creator"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha15-creator&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/shraddha15-creator" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha15-creator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
