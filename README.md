@@ -1,4 +1,4 @@
-Heyu Folks👋,  I'm Shraddha Muley!!
+Heyu Folks👋,  I'm Shraddha!!
 ===============================
 
 Software Engineer
