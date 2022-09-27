@@ -23,7 +23,6 @@ I started my Web Development journey in 2021. I have been working on HTML, CSS, 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-[![@shraddhaaa7's Holopin board](https://holopin.io/api/user/board?user=shraddhaaa7)](https://holopin.io/@shraddhaaa7)
 
 
 ### Socials
