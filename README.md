@@ -7,7 +7,7 @@ Software Engineer
 I started my Web Development journey in 2021. I have been working on HTML, CSS, JavaScript, TailwindCss, and ReactJs. I have also built some projects with the same tech stack.
 
 * 🌍  I'm based in Maharashtra, India.
-* 🖥️  See my portfolio at [My Portfolio](http://shraddha-muley.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://shraddhaaa.vercel.app/)
 * ✉️  You can contact me at [shraddhamuley2@gmail.com](mailto:shraddhamuley2@gmail.com)
 * 🚀  I'm currently working on [DoodleTv: Video Library](http://doodletv.netlify.app/)
 * 🧠  I'm learning ReactJs
